@@ -1,1 +1,1 @@
-﻿A clock made for meditation [try here](https://4skinskywalker.github.io/meditation-clock/)
+﻿A clock made for meditation [try here](https://mvarga1989.github.io/meditation-clock/)
